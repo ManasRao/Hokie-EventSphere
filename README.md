@@ -24,7 +24,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://code.vt.edu/saimanoj/hokie-event-sphere.git
+    git clone https://github.com/ManasRao/Hokie-EventSphere.git
     cd hokie-event-sphere
     ```
 
