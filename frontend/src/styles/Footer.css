@@ -1,0 +1,114 @@
+/* Footer container */
+.footer {
+    background-color: #0c0c80; /* Deep blue background */
+    color: white;
+    padding: 20px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1200px;
+    width: 100%;
+}
+
+/* Footer Title */
+.footer-title {
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+/* Subscribe section */
+.subscribe-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    gap: 10px; /* Space between input and button */
+}
+
+/* Subscribe input styling */
+.subscribe-input {
+    height: 44px;
+    width: 250px;
+    padding: 0 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box; /* Ensures padding doesn’t affect height */
+    margin-bottom: 0px;
+}
+
+/* Subscribe button styling */
+.subscribe-button {
+    height: 44px;
+    background-color: #6b3fe1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0 20px;
+    cursor: pointer;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    transition: background-color 0.3s ease;
+    margin-top: 0px;
+}
+
+
+.subscribe-button:hover {
+    background-color: #5a34c1;
+}
+
+/* Footer links */
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: #6b3fe1;
+}
+
+/* Social icons */
+.footer-social-icons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+    gap: 20px;
+}
+
+.footer-social-icons a {
+    color: white;
+    font-size: 20px;
+    transition: color 0.3s ease;
+}
+
+.footer-social-icons a:hover {
+    color: #6b3fe1;
+}
+
+/* Copyright text */
+.footer-copyright {
+    font-size: 14px;
+    color: #aaa;
+    border-top: 1px solid #6b3fe1;
+    padding-top: 10px;
+    margin-top: 5px;
+}
