@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hokie Event Sphere
 
 **Hokie Event Sphere** is a centralized platform designed to streamline event management and discovery for university students. The platform addresses the challenge of fragmented communication across emails, Google Forms, and departmental announcements by providing a unified system for event creation, discovery, and management.
@@ -103,4 +103,3 @@ If you encounter any issues while setting up or running the application, please 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 =======
 # Hokie-EventSphere
->>>>>>> 737a6b5fdcf2419f04a0407153994a316dac5c0b
